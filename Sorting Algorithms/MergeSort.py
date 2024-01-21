@@ -47,3 +47,9 @@ def merge(leftArr, rightArr, arr):
             arr[i] = rightArr[r]
             i += 1
             r += 1
+
+
+'''
+worst case O(n log(n))
+
+'''

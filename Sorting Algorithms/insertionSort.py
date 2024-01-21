@@ -14,3 +14,7 @@ def insertionSort(arr):
 
 
 print(insertionSort([2, 6, 8, 9, 1, 3, 7, 4, 5]))
+'''
+worst case O(n^2)
+
+'''

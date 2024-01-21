@@ -5,3 +5,8 @@ def bubleSort(arr):
                 temp = arr[j]
                 arr[j] = arr[j + 1]
                 arr[j+1] = temp
+                
+'''
+worst case O(n^2)
+
+'''

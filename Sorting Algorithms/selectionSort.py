@@ -7,3 +7,8 @@ def selectionSort(arr):
         temp = arr[i]
         arr[i] = arr[min]
         arr[min] = temp
+        
+'''
+worst case O(n^2)
+
+'''
