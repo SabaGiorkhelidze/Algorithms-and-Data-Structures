@@ -17,21 +17,3 @@ int main(){
     return 0;
 }
 
-/*
-
-int euclidean_algorithm(int a, int b) {
-
-while (b != 0) {
-
-int temp = b;
-
-b = a % b;
-
-a = temp;
-
-}
-
-return a;
-
-}
-*/
